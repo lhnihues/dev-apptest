@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -22,6 +39,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Admin_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Admin_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T18:59:14.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:33:36.427Z"
             }
           ]
         }
