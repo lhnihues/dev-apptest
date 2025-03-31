@@ -12,9 +12,9 @@ namespace DevAppTest.Controllers
 {
     public class UsuariosController : Controller
     {
-        private readonly Contexto _context;
+        private readonly ApplicationDbContext _context;
 
-        public UsuariosController(Contexto context)
+        public UsuariosController(ApplicationDbContext context)
         {
             _context = context;
         }
