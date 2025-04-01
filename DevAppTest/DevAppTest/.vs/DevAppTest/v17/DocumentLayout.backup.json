@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|c:\\users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\devapptest\\devapptest\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{367DD3F8-D0D1-4457-B118-8C1EA99EF14F}|DevAppTest.csproj|solutionrelative:views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +54,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -22,6 +75,149 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:03:39.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:28:41.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:33:36.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:47:39.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:37:11.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Models\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Models\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Models\\DbInitializer.cs",
+              "RelativeToolTip": "Models\\DbInitializer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:26:52.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:36:24.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:17:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:38:46.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T01:36:48.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Admin_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\lhnihues\\dev-apptest\\DevAppTest\\DevAppTest\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Admin_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAIBJwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T18:59:14.611Z",
+              "EditorCaption": ""
             }
           ]
         }
